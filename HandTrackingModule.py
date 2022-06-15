@@ -1,6 +1,5 @@
 # Hand tracking module which can be imported into other projects.
-# created 15 June 2022 by SM
-
+# created 15 June 2022
 
 import cv2
 import mediapipe as mp
